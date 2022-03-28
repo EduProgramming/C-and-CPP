@@ -116,7 +116,7 @@ Main.c:4:10: warning: variable ‘numPoint’ set but not used [-Wunused-but-set
 
 
 
-![변수, 주소연산자, 역참조 연산자, 포인터의 차이](../assets/pointer001.png)
+![변수, 주소연산자, 역참조 연산자, 포인터의 차이](../_asset/pointer001.png)
 
 
 
